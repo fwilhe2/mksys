@@ -1,0 +1,17 @@
+packages:
+  apt:
+  - tree
+  - unzip
+  - vim
+  - zsh
+  dnf:
+    - tree
+    - unzip
+    - vim
+    - xz
+    - zsh
+
+directories:
+  - ~/software
+  - ~/bin
+  - ~/code
